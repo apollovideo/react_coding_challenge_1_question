@@ -1,3 +1,14 @@
+# INSTRUCTIONS
+Challenge: Filterable Product List
+1.  Build a simple product listing page with the following requirements:
+2.  Display a hardcoded list of at least 8 products (name, price, category)
+3.  Add a text input that filters products by name in real-time
+4.  Add category filter buttons (e.g., Electronics, Clothing, Food) that filter the list
+5.  Both filters should work together simultaneously
+6.  Show a "No results found" message when nothing matches
+7.  Keep it clean — basic styling is fine
+
+
 # React + Vite
 
 This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
